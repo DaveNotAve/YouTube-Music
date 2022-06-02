@@ -1,4 +1,4 @@
-[![Dave](https://pcstrike.com/wp-content/uploads/2021/05/How-To-Invite-People-To-Discord-1024x576.png)](https://heroku.com/deploy?template=https://github.com/eritislami/evobot)
+[![Dave](https://1000logos.net/wp-content/uploads/2021/12/YouTube-Music-Logo.png))](https://heroku.com/deploy?template=https://github.com/eritislami/evobot)
 
 # 🎵 YouTube Music (Discord Music Bot)
 > YouTube Music is a bot made using discord.js [discordjs.guide](https://discordjs.guide)
