@@ -24,11 +24,11 @@ Currently available locales are:
 
 * 🔎 Playing music via Name
 
-`ytmplay FatRat Fire`
+`ytmplay Never Gonna Give You Up Rick Ashley`
 
 * 🔎 Search and play
 
-`ytmsearch Imperial March Trap Remix by Goblins from Mars`
+`ytmsearch Never Gonna Give You Up`
 
 
 Main Credits go to [@eritislami](https://github.com/eritislami) 
