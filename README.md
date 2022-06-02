@@ -32,5 +32,5 @@ Currently available locales are:
 
 
 Main Credits go to [@eritislami](https://github.com/eritislami) 
-Developer Credits go to [@DaveNotAve] (https://youtube.com/DaveNotAve)
+Developer Credits go to [@DaveNotAve](https://youtube.com/DaveNotAve)
 # YouTube-Music
