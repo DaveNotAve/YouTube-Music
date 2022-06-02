@@ -20,7 +20,7 @@ Currently available locales are:
 
 * 🎶 Using YouTube Url
 
-`ytmplay https://www.youtube.com/c/Vevo`
+`ytmplay https://youtu.be/dQw4w9WgXcQ`
 
 * 🔎 Playing music via Name
 
@@ -32,5 +32,6 @@ Currently available locales are:
 
 
 Main Credits go to [@eritislami](https://github.com/eritislami) 
+
 Developer Credits go to [@DaveNotAve](https://youtube.com/DaveNotAve)
 # YouTube-Music
