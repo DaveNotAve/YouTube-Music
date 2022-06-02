@@ -1,4 +1,4 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/eritislami/evobot)
+[![Dave](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/eritislami/evobot)
 
 # 🎵 YouTube Music (Discord Music Bot)
 > YouTube Music is a bot made using discord.js [discordjs.guide](https://discordjs.guide)
