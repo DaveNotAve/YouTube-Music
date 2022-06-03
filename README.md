@@ -1,4 +1,4 @@
-[![Dave](https://1000logos.net/wp-content/uploads/2021/12/YouTube-Music-Logo.png))](https://heroku.com/deploy?template=https://github.com/eritislami/evobot)
+[![Dave](https://1000logos.net/wp-content/uploads/2021/12/YouTube-Music-Logo.png)](https://heroku.com/deploy?template=https://github.com/eritislami/evobot)
 
 # 🎵 YouTube Music (Discord Music Bot)
 > YouTube Music is a bot made using discord.js [discordjs.guide](https://discordjs.guide)
@@ -34,4 +34,4 @@ Currently available locales are:
 Main Credits go to [@eritislami](https://github.com/eritislami) 
 
 Developer Credits go to [@DaveNotAve](https://youtube.com/DaveNotAve)
-# YouTube-Music
+# YouTube Music Discord Bot!
